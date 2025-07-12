@@ -11,11 +11,12 @@ body {
 .navbar {
 
   color: #000000;
-  padding: 10px 10px;
+  padding: 40px 0px auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
   position: relative;
+  margin-left: 20px;
  }
 
 .logo {
@@ -25,7 +26,8 @@ body {
 .menu {
   list-style: none;
   display: flex;
-  gap:10px;
+  gap:40px;
+  font-size: 30px;
  
  
 }
